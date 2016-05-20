@@ -1,5 +1,5 @@
 {
-  "name": "mikronode",
+  "name": "lukyer-mikronode-ng",
   "description": "Mikrotik API implemented in Node",
   "version": "1.0.3",
   "author": "Brandon Myers <trakkasure@gmail.com>",
