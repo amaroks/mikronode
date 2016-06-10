@@ -1,23 +1,27 @@
 {
   "name": "lukyer-mikronode-ng",
   "description": "Mikrotik API implemented in Node",
-  "version": "1.0.3",
+  "version": "1.0.6",
   "author": "Brandon Myers <trakkasure@gmail.com>",
   "contributors": [
     {
       "name": "George Joseph",
       "email": "george.joseph@fairview5.com"
+    },
+    {
+      "name": "Lukáš Svačina",
+      "email": "lukyer@gmail.com"
     }
   ],
-  "homepage": "http://trakkasure.github.io/mikronode",
+  "homepage": "https://github.com/lukyer/mikronode",
   "license": "MIT",
   "keywords": [
     "mikrotik",
     "socket",
     "api"
   ],
-  "repository": "git://github.com/trakkasure/mikronode",
-  "bugs": "https://github.com/trakassure/mikronode/issues",
+  "repository": "git://github.com/lukyer/mikronode",
+  "bugs": "https://github.com/lukyer/mikronode/issues",
   "main": "lib/index",
   "engines": {
     "node": ">= 0.10.36"
